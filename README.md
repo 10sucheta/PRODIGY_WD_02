@@ -1,1 +1,2 @@
-# PRODIGY_wd_02
+PRODIGY_wd_02
+This stopwatch project is my second internship project at Prodigy Infotech. It allows users to start, pause, and reset the timer, record lap times, and features a countdown timer and a note-taking feature. The date and time are displayed in Indian Standard Time (IST). The project is built using HTML, CSS, and JavaScript, with styling provided by a separate CSS file and icons from Font Awesome. The functionality includes handling user input, updating the display in real-time, and storing notes locally. The project demonstrates basic front-end development skills and JavaScript functionality for time-related features.
